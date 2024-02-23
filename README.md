@@ -1,19 +1,20 @@
-![RESUME_BANNER](https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/129a3172-8c2b-4d81-b99c-4fcbf3182528)
+![Yellow Modern Study with Me Youtube Thumbnail](https://github.com/JorellAndrei/JorellAndrei/assets/110623787/c86b5616-31d6-4965-836a-42968f91b17b)
+
 
 <a name="readme-top"></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br />
 <div align="center">
+<img align="left" src="https://media1.giphy.com/media/2iztZYje0i5w0GnHio/giphy.gif?cid=6c09b9520unxhsqjeecs8wnn2r5kh0de2qja0q0c55a1bust&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="30%" style="display:inline;"><img align="right" src="https://media1.giphy.com/media/2iztZYje0i5w0GnHio/giphy.gif?cid=6c09b9520unxhsqjeecs8wnn2r5kh0de2qja0q0c55a1bust&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="30%" style="display:inline;">
 
-  # IT CUTIE's RESUME - README      <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/9c197e12-562d-45e9-ad80-c21832ff61e4" width="40" height="40">
+  # Advanced Web Design Course Projects     <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/9c197e12-562d-45e9-ad80-c21832ff61e4" width="40" height="40">
 
   <p align="center">
     This repository contains the projects created during the Advanced Web Design course, focusing on HTML, CSS, and JavaScript.
     <br />
     <br />
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-  <img src="https://media.giphy.com/media/XBKgBeVjgDCJ87k4LY/giphy.gif?cid=790b76111uz88zdon8mf6zpa97yafl9o9ufezmmcr9z5d2hy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" height="280">
+  <img src="https://media3.giphy.com/media/iv67d4rQjP5spe2MGi/giphy.webp?cid=ecf05e47r0yipen68z3prc28u43pt6jfvb3xz02wc4jc79lj&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="280" height="280">
     
   </p>
 </div>
@@ -49,9 +50,16 @@
 
 <div class="about-the-student">
     <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/a80b0490-c281-4eee-b7f8-34a1a0e8799d" alt="Student Photo" width="1200" height="500">
+   </br>
+ </br>
+   </br>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29meWl5em11N2R5MW16dW1zamtmejdtNDV1eXVnaTY5OXhxNGthdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" width="26%" style="display:inline;">
     <h2>Introduction</h2>
-    <p>Hello there! My name is Jorell Andrei Pagulayan Finez and I'm currently pursuing a Bachelor's degree in Information Technology with a specialization in Web and Mobile Application Development. I have a passion for creating stunning and interactive web experiences, and I'm constantly seeking opportunities to expand my skills and knowledge in the field of web development.</p>
-    <h2>Skills</h2>
+    <p>Hello there! My name is Jorell Andrei Pagulayan Finez and I'm currently pursuing a Bachelor's degree in Information Technology with a specialization in Web and Mobile Application Development. </br>  </br> I have a passion for creating stunning and interactive web experiences, and I'm constantly seeking opportunities to expand my skills and knowledge in the field of web development.</p> 
+</br> 
+  </br> 
+
+  <h2>Skills</h2>
     <ul>
       <li> <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20"> HTML</li>
       <li> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="20" width="20"> CSS</li>
@@ -69,23 +77,38 @@
     <h2>Best Three Projects</h2>
     <p>Throughout my academic journey, I've worked on several projects that demonstrate my skills and expertise in web development. Here are a few notable projects:</p>
     <ul>
+      </br>
         <li>Project 1: https://jorellandrei.github.io/FINEZ_ANIMATION-AWD-FEUTECH/</li>
-      <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/721f622e-ef1a-446f-99d7-36db1c8c019f" height="300" width="1200">
+      </br>
+      <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/721f622e-ef1a-446f-99d7-36db1c8c019f" height="450" width="1200">
+      </br>
+      </br>
         <li>Project 2: https://jorellandrei.github.io/FINEZ_RESUME-AWD-FEUTECH/</li>
-      <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20">
+      </br>
+      <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/2ca53712-9552-432b-9c46-c5c05258da1e" height="450" width="1200">
+      </br>
+      </br>
         <li>Project 3: Landing Page]: https://jorellandrei.github.io/FINEZ_LANDINGPAGE-AWD-FEUTECH/index.html?fbclid=IwAR2VicDlA48PbZ3OI34Yct8BN_g69yGkRjsDOCrJC3BB0fNZaoX11FYZq4s/li>
-      <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20">
-          
+          </br>
+      </br>
+      </br>
+      <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/bec1a5e4-32e6-430c-bcfe-91b563f012e8" height="450" width="1200">
+      </br>
+      </br>
     </ul>
     <h2>Contact Information</h2>
     <p>If you'd like to get in touch with me, feel free to reach out through the following channels:</p>
+  </br>
     <ul>
+      <img align="right" src="https://cdn-icons-gif.flaticon.com/10182/10182267.gif" width="26%" style="display:inline;">
         <li>Email: jorellandrei23@example.com</li>
         <li>Facebook: [Jorell Andrei](https://www.facebook.com/profile.php?id=61552837010834)</li>
         <li>GitHub: [JorellAndrei](https://github.com/JorellAndrei)</li>
     </ul>
+      
 </div>
-
+</br>
+</br>
 
 ### Built With
 
@@ -96,48 +119,58 @@ This section listed the major foundations used to create my project. Here are my
 <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp?cid=790b76114s0bjpy3ez3m1jecedkegke4gbbd1y772pn15ib2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="200" height="200"> <img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp?cid=790b7611pefnmc8cabmjj8unj9y0vtk2revjghtweqajzye0&ep=v1_stickers_search&rid=giphy.webp&ct=s" height="200" width="200">
 <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="200" width="200">
 
-## FEATURES
-
-1. Modern Design
-The website features a modern and visually appealing design that grabs the attention of visitors. Utilizing the latest trends in web design, I've crafted a sleek and professional layout that reflects my personality and professionalism.
-
-2. Interactive Elements
-To enhance user engagement, I've incorporated various interactive elements throughout the website. From animated transitions to interactive buttons and scrolling effects, these elements create an immersive experience for visitors, keeping them engaged and interested in exploring further.
-
-3. Responsive Layout
-In today's mobile-first world, it's essential for websites to be responsive and accessible across different devices and screen sizes. My resume website is built with a responsive layout, ensuring optimal viewing and usability on desktops, laptops, tablets, and smartphones.
-
-4. Customizable Sections
-The website is divided into customizable sections, allowing me to highlight different aspects of my professional background and achievements. Whether it's showcasing my skills, listing my work experience, or featuring my projects, each section is carefully designed to provide valuable insights to potential employers and collaborators.
-
+## FEATURES OF THIS REPOSITORY
+</br>
+This repository showcases the practical exercises and final project completed during the Advanced Web Design course. Each project demonstrates various concepts and techniques learned throughout the course, including responsive design, animations, interactivity, and more.
 </br>
 
-### DEMO
+#### 1. Practical Exercises and Final Project
+   </br> The repository contains practical exercises and a final project completed during the Advanced Web Design course.
+#### 2. Responsive Design
+   </br> The projects demonstrate responsive design techniques, ensuring that they adapt and display correctly on various devices and screen sizes.
+#### 3. Animations:
+   </br> The projects include animations to enhance user experience and engagement, making the content more dynamic and visually appealing.
+#### 4. Interactivity </br> 
+Interactive elements are implemented in the projects, allowing users to engage with the content and providing a more immersive experience.
+#### 5. Carousel: </br>
+The carousel feature is used to showcase different project items or images, allowing users to navigate through them easily.
+#### 6. Content Display:
+   </br>Each project item within the carousel includes a title and corresponding image, providing a clear display of the content.
+#### 7. Navigation:
+   </br>The layout includes navigation elements, such as links or buttons, for users to access additional content or external resources.
+#### 8. Symbol Icons:
+   </br>Symbol icons are used for social media links, enhancing the visual presentation and providing recognizable symbols for users to interact with.
+#### 9. Cursor Effects:
+   </br>Cursor effects are implemented, adding visual feedback and enhancing the overall user experience.
+#### 10. Script Integration:
+   </br>JavaScript scripts are integrated into the HTML file to provide dynamic functionality and interactivity within the web page.
 
-Curious to see the website in action? Check out the live demo <a href="https://jorellandrei.github.io/FINEZ_RESUME-AWD-FEUTECH/" target="_blank">here</a>.
+These features collectively contribute to creating an engaging and informative online portfolio or resume website.
 
 </br>
 
 ### Installation
 
-_To run this project locally on your machine, follow these steps:_
+_To clone the projects here in my repository locally on your machine, follow these steps:_
 
 1. Clone the Repository: Use Git to clone this repository to your local machine.
    ```sh
-   git clone https://github.com/your-username/FINEZ_RESUME-AWD-FEUTECH.git
+   git clone [Github Repository link]
    ```
 2. Navigate to the Directory: Change your current directory to the project directory.
    ```sh
-   cd FINEZ_RESUME-AWD-FEUTECH
+   cd repository-name
    ```
 3. Open in Browser: Open the index.html file in your preferred web browser to view the website locally.
 
 </br>
+
 ## Usage
 
 Feel free to use this project as a template for creating your interactive resume website. Customize the content, styles, and functionality to reflect your unique skills, experiences, and personality. Don't forget to replace the placeholder content with your own information to make it truly yours.
 
 </br>
+
 ## Contributing
 
 ### Changing Styles

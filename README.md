@@ -8,7 +8,7 @@
   # IT CUTIE's RESUME - README      <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/9c197e12-562d-45e9-ad80-c21832ff61e4" width="40" height="40">
 
   <p align="center">
-    This repository contains the source code for my interactive resume website built with HTML, CSS, and JavaScript.
+    This repository contains the projects created during the Advanced Web Design course, focusing on HTML, CSS, and JavaScript.
     <br />
     <br />
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
@@ -44,18 +44,42 @@
   </ol>
   </br>
 
-<!-- ABOUT THE PROJECT -->
-## ABOUT THE PROJECT
+<!-- ABOUT THE STUDENT -->
+## ABOUT THE STUDENT
 
-<div class="about-the-project">
-<img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/17001923-71d0-4e68-b7bc-b4c379cede7c" width="1200" height="300">
-
-In today's competitive job market, having a standout resume is crucial. However, a traditional paper resume may not fully capture your skills, experience, and personality. That's where an interactive online resume comes in. This project is my interactive resume website, designed to go beyond the limitations of a static document.
-
-With the power of HTML, CSS, and JavaScript, I've created a dynamic and engaging platform to showcase my professional background, skills, projects, and aspirations. This repository contains the source code for my resume website, which you can use as inspiration for creating your online portfolio.
-
-</br>
-  
+<div class="about-the-student">
+    <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/17001923-71d0-4e68-b7bc-b4c379cede7c" alt="Student Photo" width="1200" height="300">
+    <h2>Introduction</h2>
+    <p>Hello there! My name is Jorell Andrei Pagulayan Finez and I'm currently pursuing a Bachelor's degree in Information Technology with a specialization in Web and Mobile Application Development. I have a passion for creating stunning and interactive web experiences, and I'm constantly seeking opportunities to expand my skills and knowledge in the field of web development.</p>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>C# & C++</li>
+        <li>Java</li>
+        <li>SQL - MYSQL - PL/SQL</li>
+        <li>PHP</li>
+        <li>Mobile App - Java & Xamarin</li>
+        <li>Version Control (e.g., Git)</li>
+        <li>Team Collaboration</li>
+        <li>Student Leader</li>
+    </ul>
+    <h2>Projects</h2>
+    <p>Throughout my academic journey, I've worked on several projects that demonstrate my skills and expertise in web development. Here are a few notable projects:</p>
+    <ul>
+        <li>Project 1: [Project Title](link-to-project)</li>
+        <li>Project 2: [Project Title](link-to-project)</li>
+        <li>Project 3: [Project Title](link-to-project)</li>
+    </ul>
+    <h2>Contact Information</h2>
+    <p>If you'd like to get in touch with me, feel free to reach out through the following channels:</p>
+    <ul>
+        <li>Email: jorell.andrei@example.com</li>
+        <li>LinkedIn: [Jorell Andrei](https://www.linkedin.com/in/jorellandrei/)</li>
+        <li>GitHub: [JorellAndrei](https://github.com/JorellAndrei)</li>
+    </ul>
 </div>
 
 

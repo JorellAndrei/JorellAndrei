@@ -48,36 +48,40 @@
 ## ABOUT THE STUDENT
 
 <div class="about-the-student">
-    <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/17001923-71d0-4e68-b7bc-b4c379cede7c" alt="Student Photo" width="1200" height="300">
+    <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/a80b0490-c281-4eee-b7f8-34a1a0e8799d" alt="Student Photo" width="1200" height="500">
     <h2>Introduction</h2>
     <p>Hello there! My name is Jorell Andrei Pagulayan Finez and I'm currently pursuing a Bachelor's degree in Information Technology with a specialization in Web and Mobile Application Development. I have a passion for creating stunning and interactive web experiences, and I'm constantly seeking opportunities to expand my skills and knowledge in the field of web development.</p>
     <h2>Skills</h2>
     <ul>
       <li> <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20"> HTML</li>
-      <li> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="20" width="20">CSS</li>
-     <li> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="20" width="20">JavaScript</li>
-       <li> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20" width="20">Python</li>
-      <li><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="20" width="20">C# & <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="20" width="20"> C++</li>
-       <li><img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="20" width="20">Java</li>
-       <li><img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" height="20" width="20">SQL - MYSQL - PL/SQL</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="20" width="20">PHP</li>
-       <li><img src="https://cdn-icons-png.flaticon.com/128/3437/3437364.png" height="20" width="20">Mobile App - Java & Xamarin</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="20" width="20">Version Control (e.g., Git)</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" height="20" width="20">Team Collaboration</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/1478/1478951.png" height="20" width="20">Student Leader</li>
+      <li> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="20" width="20"> CSS</li>
+     <li> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" height="20" width="20"> JavaScript</li>
+       <li> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="20" width="20"> Python</li>
+      <li><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="20" width="20"> C# & <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="20" width="20"> C++</li>
+       <li><img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" height="20" width="20"> Java</li>
+       <li><img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" height="20" width="20"> SQL - MYSQL - PL/SQL</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="20" width="20"> PHP</li>
+       <li><img src="https://cdn-icons-png.flaticon.com/128/3437/3437364.png" height="20" width="20"> Mobile App - Java & Xamarin</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="20" width="20"> Version Control (e.g., Git)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/1534/1534938.png" height="20" width="20"> Team Collaboration</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/1478/1478951.png" height="20" width="20"> Student Leader</li>
     </ul>
-    <h2>Projects</h2>
+    <h2>Best Three Projects</h2>
     <p>Throughout my academic journey, I've worked on several projects that demonstrate my skills and expertise in web development. Here are a few notable projects:</p>
     <ul>
-        <li>Project 1: [Project Title](link-to-project)</li>
-        <li>Project 2: [Project Title](link-to-project)</li>
-        <li>Project 3: [Project Title](link-to-project)</li>
+        <li>Project 1: https://jorellandrei.github.io/FINEZ_ANIMATION-AWD-FEUTECH/</li>
+      <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/721f622e-ef1a-446f-99d7-36db1c8c019f" height="300" width="1200">
+        <li>Project 2: https://jorellandrei.github.io/FINEZ_RESUME-AWD-FEUTECH/</li>
+      <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20">
+        <li>Project 3: Landing Page]: https://jorellandrei.github.io/FINEZ_LANDINGPAGE-AWD-FEUTECH/index.html?fbclid=IwAR2VicDlA48PbZ3OI34Yct8BN_g69yGkRjsDOCrJC3BB0fNZaoX11FYZq4s/li>
+      <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="20" width="20">
+          
     </ul>
     <h2>Contact Information</h2>
     <p>If you'd like to get in touch with me, feel free to reach out through the following channels:</p>
     <ul>
-        <li>Email: jorell.andrei@example.com</li>
-        <li>LinkedIn: [Jorell Andrei](https://www.linkedin.com/in/jorellandrei/)</li>
+        <li>Email: jorellandrei23@example.com</li>
+        <li>Facebook: [Jorell Andrei](https://www.facebook.com/profile.php?id=61552837010834)</li>
         <li>GitHub: [JorellAndrei](https://github.com/JorellAndrei)</li>
     </ul>
 </div>

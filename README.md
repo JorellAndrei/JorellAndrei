@@ -44,7 +44,6 @@
     <li><p>Usage</p></li>
     <li><p>Contributing</p></li>
     <li><p>Feedback and Support</p></li>
-    <li><p>More Contact</p></li>
     <li><p>Acknowledgments</p></li>
   </ol>
   </br>
@@ -189,13 +188,6 @@ If you're comfortable with JavaScript, you can enhance the website's functionali
 ## Feedback and Support
 If you have any feedback, or questions, or need assistance, feel free to reach out to me. I'm here to help and would love to hear from you. You can contact me via email at jorellandrei23@gmail.com or through my GitHub profile.
 
-</br>
-
-## More Contact
-
-Jorell Andrei Finez - [@JorellAndrei](https://www.facebook.com/profile.php?viewas=100000686899395&id=61552837010834) - jorellandrei23@gmail.com
-
-Project Link: https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH
 </br>
 
 ## Acknowledgments

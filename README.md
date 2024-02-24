@@ -21,7 +21,7 @@
 <br />
 <br />
   
-  ## TABLE OF CONTENTS
+  ## ♦ TABLE OF CONTENTS
   
   <ol>
     <li>
@@ -50,7 +50,7 @@
   </br>
 
 <!-- ABOUT THE STUDENT -->
-## ABOUT THE STUDENT
+##👨🏾‍🎓 ABOUT THE STUDENT
 
 <div class="about-the-student">
     <img src="https://github.com/JorellAndrei/JorellAndrei/assets/110623787/a80b0490-c281-4eee-b7f8-34a1a0e8799d" alt="Student Photo" width="1200" height="500">
@@ -123,7 +123,9 @@ This section listed the major foundations used to create my project. Here are my
 <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp?cid=790b76114s0bjpy3ez3m1jecedkegke4gbbd1y772pn15ib2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="200" height="200"> <img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp?cid=790b7611pefnmc8cabmjj8unj9y0vtk2revjghtweqajzye0&ep=v1_stickers_search&rid=giphy.webp&ct=s" height="200" width="200">
 <img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="200" width="200">
 
-## FEATURES OF THIS REPOSITORY
+
+##💻 GETTING STARTED
+### Features of this Repository
 </br>
 This repository showcases the practical exercises and final project completed during the Advanced Web Design course. Each project demonstrates various concepts and techniques learned throughout the course, including responsive design, animations, interactivity, and more.
 </br>
@@ -173,13 +175,13 @@ _To clone the projects here in my repository locally on your machine, follow the
 
 ![JorellAndrei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorellAndrei&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-## Usage
+##👍🏾 USAGE
 
 Feel free to use this project as a template for creating your interactive resume website. Customize the content, styles, and functionality to reflect your unique skills, experiences, and personality. Don't forget to replace the placeholder content with your own information to make it truly yours.
 
 </br>
 
-## Contributing
+##😘 CONTRIBUTING
 
 ### Changing Styles
 The website's styles are defined in the styles.css file. Feel free to modify the CSS properties to customize the appearance of the website according to your preferences. You can adjust colors, fonts, layout, and more to achieve the desired look and feel.
@@ -195,7 +197,7 @@ If you have any feedback, or questions, or need assistance, feel free to reach o
 
 </br>
 
-## Acknowledgments
+##✨ ACKNOWLEDGEMENTS
 
 These are the list of resources I find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 

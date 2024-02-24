@@ -169,7 +169,7 @@ _To clone the projects here in my repository locally on your machine, follow the
 
 </br>
 
-### Built With
+### GitHub Stats
 
 ![JorellAndrei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorellAndrei&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 

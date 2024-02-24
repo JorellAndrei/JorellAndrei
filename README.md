@@ -39,6 +39,7 @@
       <ul>
         <li><p>Features of this Repository</p></li>
         <li><p>Installation</p></li>
+        <li><p>GitHub Stats</p></li>
       </ul>
     </li>
     <li><p>Usage</p></li>
@@ -167,6 +168,10 @@ _To clone the projects here in my repository locally on your machine, follow the
 3. Open in Browser: Open the index.html file in your preferred web browser to view the website locally.
 
 </br>
+
+### Built With
+
+![JorellAndrei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorellAndrei&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## Usage
 

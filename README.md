@@ -25,22 +25,26 @@
   
   <ol>
     <li>
-      <p>About The Project</p>
+      <p>About The Student</p>
       <ul>
+        <li><p>Introduction</p></li>
+        <li><p>Skills</p></li>
+        <li><p>Best Three Projects</p></li>
+        <li><p>Contact Information</p></li>
         <li><p>Built With</p></li>
       </ul>
     </li>
     <li>
       <p>Getting Started</p>
       <ul>
-        <li><p>Prerequisites</p></li>
+        <li><p>Features of this Repository</p></li>
         <li><p>Installation</p></li>
       </ul>
     </li>
     <li><p>Usage</p></li>
     <li><p>Contributing</p></li>
-    <li><p>License</p></li>
-    <li><p>Contact</p></li>
+    <li><p>Feedback and Support</p></li>
+    <li><p>More Contact</p></li>
     <li><p>Acknowledgments</p></li>
   </ol>
   </br>
@@ -187,7 +191,7 @@ If you have any feedback, or questions, or need assistance, feel free to reach o
 
 </br>
 
-## Contact
+## More Contact
 
 Jorell Andrei Finez - [@JorellAndrei](https://www.facebook.com/profile.php?viewas=100000686899395&id=61552837010834) - jorellandrei23@gmail.com
 
